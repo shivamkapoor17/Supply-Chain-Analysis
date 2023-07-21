@@ -1,5 +1,7 @@
 # Supply-Chain-Analysis
 
+**View Dashboard:** https://www.novypro.com/project/supply-chain-analysis-8
+
 ## Problem Statement
 
 AtliQ Mart is a growing FMCG manufacturer headquartered in Gujarat, India. It is currently operational in three cities Surat, Ahmedabad and Vadodara. They want to expand to other metros/Tier 1 cities in the next 2 years.
@@ -20,6 +22,6 @@ Peter Pandey is the data analyst in the supply chain team who joined AtliQ Mart 
 
 ✔ IF%, OT% and OTIF% is more then 20% less then its target value for all of the three cities.
 
-✔ Highest LIFR and VOFR is 96.9% and 68% respectively for product "AM Biscuits 750"
+✔ Highest LIFR and VOFR is 96.9% and 68% respectively for product "AM Biscuits 750" etc
 
-for knowing more insights and to view my dashboard visit my portfolio. 
+for knowing more insights and to view my dashboard visit my portfolio. Link is available 
