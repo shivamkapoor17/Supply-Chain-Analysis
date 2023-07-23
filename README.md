@@ -1,6 +1,6 @@
 # Supply-Chain-Analysis
 
-**View Dashboard:** https://www.novypro.com/project/supply-chain-analysis-8
+**View Power BI Dashboard:** https://www.novypro.com/project/supply-chain-analysis-8
 
 ## Problem Statement
 
